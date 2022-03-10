@@ -1,7 +1,7 @@
 FROM alpine:edge
 
 ARG AUUID="cfb7bd58-a065-11ec-b909-0242ac120002"
-ARG CADDYIndexPage="https://data.cnki.net/yearbook/Single/N2021110004"
+ARG CADDYIndexPage="https://github.com/AYJCSGM/mikutap/archive/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=80
 
